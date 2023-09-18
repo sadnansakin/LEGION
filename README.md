@@ -46,7 +46,7 @@
     ⦿ 
 ![L10](https://github.com/sadnansakin/LEGION/assets/66565192/f1c091a7-485b-4e75-bf4a-75ce1b6ecf2c)
 
-### 🔴 It also shows Scan Processes and Log:
+### 🔴 It shows Scan Processes and Log also:
 ![L11](https://github.com/sadnansakin/LEGION/assets/66565192/8f12875c-fc2b-42bb-8ffa-fb347323b4fc)
 
 

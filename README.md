@@ -6,25 +6,28 @@
     ⦿ It's pre-installed in kali linux.
 
 ### 🧰 How To Run:
+    ⦿ 
 
 ![L1](https://github.com/sadnansakin/LEGION/assets/66565192/77ffe4de-dede-4b7d-9816-ab35a98671ed)
 
 
 ### 🧰 LEGION Dashboard:
+    ⦿ 
 
 ![L2 dashboard](https://github.com/sadnansakin/LEGION/assets/66565192/a6d2e624-79cc-48a4-9145-c0bc2312bca1)
 
 
 
 ### ❄️ Usage:
+    ⦿ 
 
 
 ![L5 how to use legion](https://github.com/sadnansakin/LEGION/assets/66565192/bd98b17e-7021-4b4b-8569-2dab3cb46c76)
 
 
 
-### ❄️ LEGION Scan result:
-
+### 🔴 LEGION Scan result:
+    ⦿ 
 
 ![L6](https://github.com/sadnansakin/LEGION/assets/66565192/93c690fa-3a70-48f2-a01f-4e45eca29b44)
 
@@ -35,4 +38,15 @@
 
 
 ![L9](https://github.com/sadnansakin/LEGION/assets/66565192/5ccb6bb7-cf9a-4b1e-96cb-8cd9ecce3ba1)
+
+
+
+
+### 🔍 We can also Brute force different services using LEGION:
+    ⦿ 
+![L10](https://github.com/sadnansakin/LEGION/assets/66565192/f1c091a7-485b-4e75-bf4a-75ce1b6ecf2c)
+
+### 🔴 It also shows Scan Processes and Log:
+![L11](https://github.com/sadnansakin/LEGION/assets/66565192/8f12875c-fc2b-42bb-8ffa-fb347323b4fc)
+
 

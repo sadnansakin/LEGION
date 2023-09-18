@@ -1,4 +1,4 @@
-# 🔍 LEGION 🔍
+# ⚔️ LEGION ⚔️
 ![L4 cover](https://github.com/sadnansakin/LEGION/assets/66565192/6a996077-23a1-4536-8eac-5b4112c6789a)
 
 
